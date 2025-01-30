@@ -4,8 +4,14 @@ table,th,td {
 }
    
 table { 
-    width: 100%;
-    background-color: green;
-    color: white
+    width: 100%; /* weboldal szélessége */
+    background-color: green; /* háttérszín */
+    color: white; /* betűszín */
+    font-family: 'Courier New'; /* betűtípus */
+    font-size: 25px;
+  }
+
+  th {  
+ background-color: black;
   }
   
