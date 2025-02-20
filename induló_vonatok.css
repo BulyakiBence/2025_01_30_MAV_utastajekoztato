@@ -7,16 +7,21 @@ table {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-td {
-    background-color: bisque;
-}
+
 #Kesess {
     background-color: red;
 }
 #Idő {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(210, 249, 250);
 }
-#varhatoerkezes { 
-    background-color: lime;
 
+tbody   tr:nth-child(even) {
+    background-color: plum;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: gray;
+}
+thead {
+    background-color: rgb(49, 49, 134);
 }
