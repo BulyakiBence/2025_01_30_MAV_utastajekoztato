@@ -1,7 +1,11 @@
 table {
+   border:1px solid ;
+   border border-collapse: collapse;
     width: 100%;
     background-color: aqua;
-
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 td {
     background-color: bisque;

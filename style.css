@@ -9,6 +9,7 @@ table {
     color: white; /* betűszín */
     font-family: 'Courier New'; /* betűtípus */
     font-size: 25px;
+    text-align: center;
   }
 
   th {  
