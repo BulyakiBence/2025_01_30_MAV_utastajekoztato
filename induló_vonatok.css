@@ -1,7 +1,7 @@
 table {
    border:1px solid ;
-   border border-collapse: collapse;
-    width: 100%;
+    border-collapse: separate;
+    width: 100%; 
     background-color: aqua;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
@@ -15,4 +15,8 @@ td {
 }
 #Idő {
     background-color: lightgoldenrodyellow;
+}
+#varhatoerkezes { 
+    background-color: lime;
+
 }

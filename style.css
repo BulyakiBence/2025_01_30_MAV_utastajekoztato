@@ -8,7 +8,7 @@ table {
     background-color: green; /* háttérszín */
     color: white; /* betűszín */
     font-family: 'Courier New'; /* betűtípus */
-    font-size: 25px;
+    font-size: 25px; /*betűméret*/
     text-align: center;
   }
 
