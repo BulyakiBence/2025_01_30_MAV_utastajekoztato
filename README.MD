@@ -13,3 +13,4 @@ Egyszerűen nyisd meg a https://github.com/BulyakiBence/2025_01_30_MAV_utastajek
 
 ## Élő demó
 A projekt élőben megtekinthető az alábbi linken:
+https://bulyakibence.github.io/2025_01_30_MAV_utastajekoztato/ 
