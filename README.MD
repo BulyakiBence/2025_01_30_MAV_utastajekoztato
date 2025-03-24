@@ -5,8 +5,8 @@
 ![alt text](github_logo.png)
 
 ## Funkciók
-🚉 Induló és érkező vonatok listázása táblázatban
-⏰ Állomás, indulási és érkezési idők megjelenítése
+🚉 Induló és érkező vonatok listázása táblázatban 
+<br>⏰ Állomás, indulási és érkezési idők megjelenítése</br>
 🎨 Felhasználóbarát, letisztult dizájn
 ## Használat
 Egyszerűen nyisd meg a https://github.com/BulyakiBence/2025_01_30_MAV_utastajekoztato weboldalt a böngészőben, és a rendszer betölti az aktuális adatokat.
