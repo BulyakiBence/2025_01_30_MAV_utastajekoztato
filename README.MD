@@ -42,6 +42,7 @@ https://bulyakibence.github.io/2025_01_30_MAV_utastajekoztato/
 </body>
 </html>
 🎨 CSS Stílusok
+```CSS
 body {
     
     background-color:rgb(25, 163, 25);
@@ -53,7 +54,9 @@ table {
    
     border-collapse: collapse;
 }
+```
 🔧 Fejlesztési lehetőségek
  🔄 Dinamikus adatbetöltés API-n keresztül
- 🔍 Keresési és szűrési lehetőségek
+ <br>🔍 Keresési és szűrési lehetőségek </br>
  📱 Reszponzív megjelenítés mobileszközökre
+ 
